@@ -8,3 +8,9 @@ Vi hade ett möte där vi presenterade våra idéer och röstade fram att vi ska
 
 ## Ons 14/5
 Jag startade ett Xcode-projekt med en .gitignore-fil och pushade upp det till GitHub. Övriga gruppmedlemmar klonade ner projektet, och tillsammans säkerställde vi att alla kunde pusha till repot utan problem. Därefter började vi planera innehållet för sprint 1 och diskutera vilka funktioner som ska prioriteras.
+
+## Tor 15/5
+Vi påbörjar sprintplaneringen inför Sprint 1 genom att välja ut de user stories vi vill hinna med under sprinten. Därefter estimerar vi varje story med poäng, och bryter sedan ner dem i mindre konkreta tasks. Möte med bill därefter och vi ligger i fas.
+
+## Mån 19/5
+Under dagens möte fördelade vi uppgifter. Jag kommer att börja arbeta med kartfunktionen, vilket innebär att jag skapar en LocationManager för att hämta användarens position och en view för att visa kartan tillsammans med den aktuella positionen.
