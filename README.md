@@ -13,4 +13,7 @@ Jag startade ett Xcode-projekt med en .gitignore-fil och pushade upp det till Gi
 Vi påbörjar sprintplaneringen inför Sprint 1 genom att välja ut de user stories vi vill hinna med under sprinten. Därefter estimerar vi varje story med poäng, och bryter sedan ner dem i mindre konkreta tasks. Möte med bill därefter och vi ligger i fas.
 
 ## Mån 19/5
-Under dagens möte fördelade vi uppgifter. Jag kommer att börja arbeta med kartfunktionen, vilket innebär att jag skapar en LocationManager för att hämta användarens position och en view för att visa kartan tillsammans med den aktuella positionen.
+Under dagens möte fördelade vi uppgifter. Jag kommer att börja arbeta med kartfunktionen, jag skapade en LocationManager för att hämta användarens position och en view för att visa kartan tillsammans med den aktuella positionen.
+
+## Tis 20/5
+På morgonmötet omformulerade vi vissa user stories och tasks för att bättre spegla det faktiska arbetet efter att vi kommit igång. Jag fortsätter idag med kartfunktionen och implementerar logiken för att slumpa ut kistor. Baserat på användarens aktuella position genereras nu 10 kistor inom en radie på cirka 2 km.
