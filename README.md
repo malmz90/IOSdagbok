@@ -17,3 +17,6 @@ Under dagens möte fördelade vi uppgifter. Jag kommer att börja arbeta med kar
 
 ## Tis 20/5
 På morgonmötet omformulerade vi vissa user stories och tasks för att bättre spegla det faktiska arbetet efter att vi kommit igång. Jag fortsätter idag med kartfunktionen och implementerar logiken för att slumpa ut kistor. Baserat på användarens aktuella position genereras nu 10 kistor inom en radie på cirka 2 km.
+
+## Ons 21/05
+Vi har kommit långt i sprinten och fokuserar nu på att sammanfoga alla delar. Samtidigt för vi diskussioner om hur vi ska ta arbetet vidare framåt. Just nu arbetar jag med att implementera navigeringen från startskärmen till GameView och säkerställa att den fungerar korrekt med kartan och utplacering av kistor.
